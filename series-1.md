@@ -142,7 +142,7 @@
 * Stamp #: 74461
 * Page: 17
 * Issuance: 63
-* By: Normancomics
+* By: NORMANCOMICS
 
 ![](.gitbook/assets/b0458eaf5fdbea510c9a865a13acb7f6fdd9471f412c990122b92ef7e7acc946.gif)
 
